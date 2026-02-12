@@ -1,11 +1,9 @@
 ---
 name: seven-lines-of-code-audit
-description: 'Evaluate APIs, integrations, and developer-facing interfaces for minimum
-  viable complexity using Stripe''s founding philosophy: "What would this look like
-  if you could do it in seven lines of code?'
+description: 'Evaluate APIs, integrations, and developer-facing interfaces for minimum viable complexity using Stripe''s founding philosophy: "What would this look like if you could do it in seven lines of code?'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - seven-lines-of-code-audit
